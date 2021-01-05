@@ -13,7 +13,7 @@ app.use(authRoutes);
 app.use(trackRoutes);
 
 const mongoUri =
-  "mongodb+srv://admin:passwordpassword@cluster0-bsuaj.mongodb.net/test?retryWrites=true&w=majority";
+  "mongodb+srv://<userName>:<passwprd>@<serverPublicIP>?retryWrites=true&w=majority";
 mongoose.connect(mongoUri, {
   useNewUrlParser: true,
   useCreateIndex: true,
