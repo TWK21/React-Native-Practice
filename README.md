@@ -1,7 +1,7 @@
 # React-Native-Practice
 
 Track App:
-- GPS
+- GPS using expo-location
 - MongoDB
 - Express
 
