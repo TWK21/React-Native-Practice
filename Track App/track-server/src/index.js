@@ -12,7 +12,8 @@ app.use(express.json());
 app.use(authRoutes);
 app.use(trackRoutes);
 
-const mongoUri = "<<mongoURI>>";
+const mongoUri =
+  "mongodb+srv://<userName>:<passwprd>@<serverPublicIP>?retryWrites=true&w=majority";
 mongoose.connect(mongoUri, {
   useNewUrlParser: true,
   useCreateIndex: true,
