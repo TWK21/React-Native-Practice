@@ -1,12 +1,14 @@
 # React-Native-Practice
 
-Track App:
+## Notable Projects
+### Track App:
 - GPS using expo-location
 - MongoDB
 - Express
 
-blog App:
-- json server
 
-food App:
+### Food App:
 - Yelp API
+
+### Blog App:
+- json server
