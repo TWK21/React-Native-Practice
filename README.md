@@ -17,6 +17,6 @@ An app that keeps track of user's GPS location and saves the track using:
 ### Food App:
 <img src="https://github.com/TWK21/React-Native-Practice/blob/master/README%20Demo/FoodAppDemo.gif" />
 
-
+An app that searches for local restaurants grouped by price ranges and displays the details, such as name, rating, reviews, and images using:
 - Yelp API
 
