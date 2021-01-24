@@ -4,7 +4,7 @@
 ### Track App:
 
 <img src="https://github.com/TWK21/React-Native-Practice/blob/master/README%20Demo/TrackAppDemo.gif" />
-<em>Using mock coordinatees in the demo, but can turn off to make the app fully functional with real GPS inputs</em>
+<em>Using mock coordinatees in the demo, but can turn it off to make the app fully functional with real GPS inputs</em>
 
 
 An app that keeps track of user's GPS location and saves the track using:
@@ -16,5 +16,7 @@ An app that keeps track of user's GPS location and saves the track using:
 
 ### Food App:
 <img src="https://github.com/TWK21/React-Native-Practice/blob/master/README%20Demo/FoodAppDemo.gif" />
+
+
 - Yelp API
 
